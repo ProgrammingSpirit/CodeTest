@@ -62,7 +62,7 @@ class App extends Component {
                     horizontal-align
                 />
                 <BarChart
-                    width={1180}
+                    width={980}
                     height={769}
                     data={quizData}
                     margin={{
